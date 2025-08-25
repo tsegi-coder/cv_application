@@ -71,8 +71,3 @@ Every push to the `main` branch triggers a new deployment.
 
 ---
 ```
----
-
-If you want, I can also **take an actual screenshot of your live app** and replace the placeholder image link so your README has a real preview.  
-
-Do you want me to prepare that screenshot for you next?
