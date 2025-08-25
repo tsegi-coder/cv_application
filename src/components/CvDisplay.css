@@ -1,0 +1,66 @@
+.cv-preview {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  padding: 30px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: auto;
+}
+
+.cv-preview h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: #1F2937;
+}
+
+.cv-preview h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #3B82F6; /* subtle section line */
+  padding-bottom: 5px;
+  color: #2563EB;
+}
+
+.cv-preview p {
+  margin: 4px 0;
+  line-height: 1.5;
+}
+
+.cv-preview .section {
+  margin-bottom: 20px;
+}
+
+.cv-preview .section .item {
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px dashed #ccc;
+}
+
+.cv-preview .item strong {
+  font-weight: 600;
+  color: #1E40AF;
+}
+
+.cv-preview .dates {
+  font-style: italic;
+  color: #6B7280;
+}
+
+.cv-preview .skills, .cv-preview .responsibilities {
+  margin-left: 15px;
+  list-style-type: disc;
+}
+
+@media print {
+  .cv-preview {
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+  }
+}
