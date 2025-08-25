@@ -1,8 +1,4 @@
-Got it, Tsega — I’ve looked at both your **live demo** and your current GitHub README, and I can prepare a **polished, stylish, and professional** `README.md` that really sells your CV Application.  
 
-Here’s the upgraded version:
-
----
 
 ```markdown
 # 📄 CV Application
@@ -68,11 +64,6 @@ Every push to the `main` branch triggers a new deployment.
 
 ---
 
-## 📸 Preview
-![CV Application Screenshot](https://via.placeholder.com/1000x500.png?text=CV+Application+Preview)
-
----
-
 ## 📬 Contact
 💼 **GitHub**: [tsegi-coder](https://github.com/tsegi-coder)  
 📧 **Email**: setotarose@gmail.com  
@@ -80,16 +71,6 @@ Every push to the `main` branch triggers a new deployment.
 
 ---
 ```
-
----
-
-### 🔹 What’s New in This Version
-- **More visual & engaging** — added emojis and clear section breaks
-- **Live demo link** is prominent
-- **Features** are bullet-pointed with icons for quick scanning
-- **Preview image section** so visitors instantly see what the app looks like
-- **Professional tone** but still friendly and inviting
-
 ---
 
 If you want, I can also **take an actual screenshot of your live app** and replace the placeholder image link so your README has a real preview.  
